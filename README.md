@@ -1,6 +1,3 @@
 # learning-git
 
-safasdfasdf
-asdfasdf
-asdfasdf
-asdfasdf
+List of Developers:
